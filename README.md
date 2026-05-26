@@ -1,84 +1,51 @@
-### `¯\_(ツ)_/¯`
+# Hello, I'm BeforeCT 👋
 
-```
-     __
-    / _\_   _ _ __ ___  _ __   ___  _ __
-    \ \| | | | '_ ` _ \| '_ \ / _ \| '__|
-    _\ \ |_| | | | | | | |_) | (_) | |
-    \__/\__,_|_| |_| |_| .__/ \___/|_|
-                       |_|
-```
-
-**BeforeCT** — exists since 2024, still not sure what I'm doing.
-
-```yaml
-name: BeforeCT
-location: somewhere in the void
-status: 🟢 available for chaos
-languages_ikr: Python, Go, JavaScript, "It works on my machine"
-currently: fixing bugs I created 3 months ago
-mood: depends on deploy status
-```
-
-🕒 **Waktu coding:** 10% nulis code · 90% `git commit -m "fix"` → `git push --force`
+Full-stack developer & automation engineer. Building stuff that works (eventually).
 
 ---
 
-### 📊 Stats that don't mean much
+## 🛠️ Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=BeforeCT&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_title=true)
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=BeforeCT&theme=radical&hide_border=true)
+**Frameworks & Tools**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeforeCT&layout=compact&theme=radical&hide_border=true)
-
----
-
-### 🏆 Pencapaian Sejauh Ini
-
-- ✅ Berhasil nge-deploy tanpa error di local — production lain cerita
-- ✅ `git push --force` ke branch main cuma 12x minggu ini (improvement!)
-- ✅ Nulis 1000 line code, didelete 800 pas PR review
-- ✅ Bisa bedain `==` sama `===` (kadang-kadang)
-- ✅ Stack Overflow reputation > 1
-- ✅ Pernah bilang "tinggal 5 menit lagi" — itu 6 jam yang lalu
-
----
-
-### 🧰 Tools of the Trade
-
-```
-EDITOR    : nano (fight me)
-BROWSER   : 42 tabs open, 3 of them are Stack Overflow
-MUSIC     : lofi hip hop radio — beats to debug to
-STATUS    : 2/5 cups of coffee deep
-```
-
-### 🤝 Contribution Graph
-
-```
-██░░░░░░░░░░░░░░░░░░   Sen — "I'll start tomorrow"
-█████░░░░░░░░░░░░░░░   Sel — "tomorrow"
-████████████░░░░░░░░   Rab — hyperfocus mode unlocked
-██████████████████░░   Kam — almost there
-████████████████████   Jum — IT WORKS
-░░░░░░░░░░░░░░░░░░░░   Sab — recovery day
-░░░░░░░░░░░░░░░░░░░░   Min — "next week I'll be more productive"
-```
+**AI & ML**
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
-### 📫 Reach me at
+## 📊 GitHub Analytics
 
-**Telepathically** — I'll know if you star my repos.
-
-Or: [GitHub](https://github.com/BeforeCT) · like that's not where we already are
+![](https://github-readme-stats.vercel.app/api?username=BeforeCT&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BeforeCT&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeforeCT&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-```
-"Works on my machine" 
-— BeforeCT, 2024
-```
+## 🔭 What I'm Working On
 
-![Profile views](https://komarev.com/ghpvc/?username=BeforeCT&color=ff69b4&style=flat-square&label=orang+yang+kesasar)
+- **Hermes Agent** — AI agent framework by Nous Research
+- **9Router** — AI gateway with multi-provider routing & auto-fallback
+- **Automation tools** — bots, scrapers, infra scripts
+
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BeforeCT)
+
+---
+
+> *"Make it work, make it right, make it fast."*
